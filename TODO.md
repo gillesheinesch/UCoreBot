@@ -1,0 +1,24 @@
+### UCore Bot TODO Liste
+
+- [ ] ADD a second -help message when it errors for the reason < 2000
+- [X] ADD testzeit set/remove/check command
+- [ ] FIX .count of undefined in ucorebotapp.js
+- [ ] ADD more features to overwatch.js
+- [ ] Change all stuff to the DB PersistentCollection
+- [X] FIX deprecated sendEmbed in all commands
+- [ ] Combine -level and -points to -rank and show the placement in the leaderboard
+- [X] Show position in the leaderboard with -rank
+- [X] CHANGE colors for every minigame
+- [X] CHANGE message to msg
+- [X] FIX -cal message.reply when there is no input
+- [X] FIX kick command with !user and !reason
+- [X] ADD -rules 1, 2, ...
+- [ ] ADD a try and catch event to the unban command
+- [ ] ADD a remindme when a user gets the role "Testphase", that is for the command testphase
+- [ ] ADD a change reason in mod-log command
+- [X] CHECK if there are any unecessary permissions
+- [ ] CHECK all embeds and add some cool stuff
+- [X] FIX ParNePar
+- [ ] ADD a check if you have enough money to play a minigame
+- [ ] ADD a system to warn a clan member
+- [ ] ADD custom messages when a user plays a minigame before < 3 seconds
