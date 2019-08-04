@@ -1,5 +1,4 @@
 node_modules
 score.sqlite
 .eslintrc.json
-package-lock.json
 data
