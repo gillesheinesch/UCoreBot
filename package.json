@@ -11,7 +11,7 @@
     "moment": "^2.18.1",
     "moment-duration-format": "^2.3.2",
     "request-promise": "^4.2.4",
-    "request": "^2.81.0",
+    "request": "^2.88.0",
     "sqlite": "^2.8.0"
   },
   "devDependencies": {},
