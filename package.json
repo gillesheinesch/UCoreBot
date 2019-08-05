@@ -4,7 +4,7 @@
   "description": "🖥️ Discord Bot for the GommeHD.net UCore Clan (German)",
   "main": "ucorebotapp.js",
   "dependencies": {
-    "djs-collection-persistent": "^0.1.4",
+    "djs-collection-persistent": "^0.1.5",
     "discord.js": "^12.0.0-dev",
     "got": "^9.6.0",
     "math-expression-evaluator": "^1.2.17",
