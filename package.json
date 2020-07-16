@@ -6,7 +6,7 @@
   "dependencies": {
     "djs-collection-persistent": "^0.1.4",
     "discord.js": "^12.0.0-dev",
-    "got": "^9.6.0",
+    "got": "^11.5.1",
     "math-expression-evaluator": "^1.2.17",
     "moment": "^2.19.3",
     "moment-duration-format": "^2.3.2",
